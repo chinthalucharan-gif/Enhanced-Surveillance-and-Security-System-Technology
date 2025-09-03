@@ -1,0 +1,2 @@
+# Enhanced-Surveillance-and-Security-System-Technology
+ The project “Enhanced Surveillance and Security System Technology” is an AI-powered solution using machine learning, computer vision, and deep learning to detect threats in real time. With modules for motion, mask, facial, weapon, and pose detection, it offers low-cost, scalable, automated security with instant alerts and minimal human monitoring.
